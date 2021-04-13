@@ -1,0 +1,1878 @@
+{
+    "prov": [
+        {
+            "name": "British Columbia",
+            "zoom": 10,
+            "coordinates": [-126, 55]
+        },
+        {
+            "name": "Alberta",
+            "zoom": 13,
+            "coordinates": [-116, 55]
+        },
+        {
+            "name": "Saskatchewan",
+            "zoom": 13,
+            "coordinates": [-107, 55]
+        },
+        {
+            "name": "Manitoba",
+            "zoom": 13,
+            "coordinates": [-98.4, 55]
+        },
+        {
+            "name": "Ontario",
+            "zoom": 11.5,
+            "coordinates": [-85, 50]
+        },
+        {
+            "name": "Québec",
+            "zoom": 7,
+            "coordinates": [-71.1, 54.85]
+        },
+        {
+            "name": "New Brunswick",
+            "zoom": 46,
+            "coordinates": [-66.2, 46.5]
+        },
+        {
+            "name": "Nova Scotia",
+            "zoom": 40,
+            "coordinates": [-63, 45.3]
+        },
+        {
+            "name": "Prince Edward Island",
+            "zoom": 105,
+            "coordinates": [-63.35, 46.5]
+        },
+        {
+            "name": "Newfoundland and Labrador",
+            "zoom": 17,
+            "coordinates": [-60, 52]
+        },
+        {
+            "name": "Territories",
+            "zoom": 3.3,
+            "coordinates": [-104, 71.5]
+        }
+    ],
+    "Regions": [
+      {
+        "name": "Vancouver", 
+        "province": "British Columbia",
+        "zoom": 300,
+        "coordinates": [-123, 49.2]
+      },
+      {
+        "name": "Victoria", 
+        "province": "British Columbia",
+        "zoom": 348,
+        "coordinates": [-123.5, 48.5]
+      },
+      {
+        "name": "Calgary", 
+        "province": "Alberta",
+        "zoom": 315,
+        "coordinates": [-114, 51]
+      },
+      {
+        "name": "Edmonton", 
+        "province": "Alberta",
+        "zoom": 250,
+        "coordinates": [-113.5, 53.5]
+      },
+      {
+        "name": "Regina", 
+        "province": "Saskatchewan",
+        "zoom": 315,
+        "coordinates": [-104.5, 50.5]
+      },
+      {
+        "name": "Saskatoon", 
+        "province": "Saskatchewan",
+        "zoom": 315,
+        "coordinates": [-106.6, 52.1]
+      },
+      {
+        "name": "Yukon", 
+        "province": "Territories",
+        "zoom": 7.2,
+        "coordinates": [-131.5, 65]
+      },
+      {
+        "name": "Northwest Territories", 
+        "province": "Territories",
+        "zoom": 3.5,
+        "coordinates": [-110, 70]
+      },
+      {
+        "name": "Nunavut", 
+        "province": "Territories",
+        "zoom": 3.5,
+        "coordinates": [-92.5, 71]
+      },
+      {
+        "name": "Winnipeg", 
+        "province": "Manitoba",
+        "zoom": 322,
+        "coordinates": [-97.15, 49.9]
+      },
+      {
+        "name": "GTA", 
+        "province": "Ontario",
+        "zoom": 400,
+        "coordinates": [-79.4, 43.7]
+      },
+      {
+        "name": "Ottawa", 
+        "province": "Ontario",
+        "zoom": 300,
+        "coordinates": [-75.7, 45.3]
+      },
+      {
+        "name": "Québec City", 
+        "province": "Québec",
+        "zoom": 400,
+        "coordinates": [-71.32, 46.86]
+      },
+      {
+        "name": "Montreal", 
+        "province": "Québec",
+        "zoom": 350,
+        "coordinates": [-73.7, 45.6]
+      },
+      {
+        "name": "Saint John", 
+        "province": "New Brunswick",
+        "zoom": 350,
+        "coordinates": [-66, 45.3]
+      },
+      {
+        "name": "Fredericton", 
+        "province": "New Brunswick",
+        "zoom": 250,
+        "coordinates": [-66.3, 46]
+      },
+      {
+        "name": "Moncton", 
+        "province": "New Brunswick",
+        "zoom": 500,
+        "coordinates": [-64.8, 46.2]
+      },
+      {
+        "name": "Charlottetown", 
+        "province": "P.E.I.",
+        "zoom": 400,
+        "coordinates": [-63, 46]
+      },
+      {
+        "name": "Halifax", 
+        "province": "Nova Scotia",
+        "zoom": 400,
+        "coordinates": [-63.6, 44.65]
+      },
+      {
+        "name": "St. John's", 
+        "province": "Newfoundland and Labrador",
+        "zoom": 200,
+        "coordinates": [-52.8, 47.5]
+      }
+    ],
+    "ED": [
+        {
+          "FEDENAME_": "Calgary Midnapore",
+          "PROVNAME_": "Alberta",
+          "REGION": "Calgary"
+        },
+        {
+          "FEDENAME_": "Calgary Nose Hill",
+          "PROVNAME_": "Alberta",
+          "REGION": "Calgary"
+        },
+        {
+          "FEDENAME_": "Calgary Rocky Ridge",
+          "PROVNAME_": "Alberta",
+          "REGION": "Calgary"
+        },
+        {
+          "FEDENAME_": "Calgary Shepard",
+          "PROVNAME_": "Alberta",
+          "REGION": "Calgary"
+        },
+        {
+          "FEDENAME_": "Calgary Signal Hill",
+          "PROVNAME_": "Alberta",
+          "REGION": "Calgary"
+        },
+        {
+          "FEDENAME_": "Calgary Skyview",
+          "PROVNAME_": "Alberta",
+          "REGION": "Calgary"
+        },
+        {
+          "FEDENAME_": "Edmonton Riverbend",
+          "PROVNAME_": "Alberta",
+          "REGION": "Edmonton"
+        },
+        {
+          "FEDENAME_": "Edmonton Strathcona",
+          "PROVNAME_": "Alberta",
+          "REGION": "Edmonton"
+        },
+        {
+          "FEDENAME_": "Edmonton West",
+          "PROVNAME_": "Alberta",
+          "REGION": "Edmonton"
+        },
+        {
+          "FEDENAME_": "Edmonton-Wetaskiwin",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Fort McMurray-Cold Lake",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Grande Prairie-Mackenzie",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Lakeland",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Lethbridge",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Peace River-Westlock",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Red Deer-Mountain View",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Red Deer-Lacombe",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "St. Albert-Edmonton",
+          "PROVNAME_": "Alberta",
+          "REGION": "Edmonton"
+        },
+        {
+          "FEDENAME_": "Sherwood Park-Fort Saskatchewan",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Sturgeon River-Parkland",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Banff-Airdrie",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Battle River-Crowfoot",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Bow River",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Calgary Centre",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Calgary Confederation",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Calgary Forest Lawn",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Calgary Heritage",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Edmonton Centre",
+          "PROVNAME_": "Alberta",
+          "REGION": "Edmonton"
+        },
+        {
+          "FEDENAME_": "Edmonton Mill Woods",
+          "PROVNAME_": "Alberta",
+          "REGION": "Edmonton"
+        },
+        {
+          "FEDENAME_": "Yellowhead",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Edmonton Griesbach",
+          "PROVNAME_": "Alberta",
+          "REGION": "Edmonton"
+        },
+        {
+          "FEDENAME_": "Edmonton Manning",
+          "PROVNAME_": "Alberta",
+          "REGION": "Edmonton"
+        },
+        {
+          "FEDENAME_": "Burnaby North-Seymour",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Delta",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Cowichan-Malahat-Langford",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Saanich-Gulf Islands",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Victoria"
+        },
+        {
+          "FEDENAME_": "Esquimalt-Saanich-Sooke",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Victoria"
+        },
+        {
+          "FEDENAME_": "Mission-Matsqui-Fraser Canyon",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Vancouver Quadra",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Richmond Centre",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Steveston-Richmond East",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Coquitlam-Port Coquitlam",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Victoria",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Victoria"
+        },
+        {
+          "FEDENAME_": "Vancouver East",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "West Vancouver-Sunshine Coast-Sea to Sky Country",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Fleetwood-Port Kells",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Burnaby South",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Vancouver Kingsway",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Prince George-Peace River-Northern Rockies",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "North Okanagan-Shuswap",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Vancouver Centre",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Vancouver Granville",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Vancouver South",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Surrey Centre",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Kelowna-Lake Country",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "North Island-Powell River",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Port Moody-Coquitlam",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Pitt Meadows-Maple Ridge",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Cloverdale-Langley City",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Surrey-Newton",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "North Vancouver",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Courtenay-Alberni",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "New Westminster-Burnaby",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Nanaimo-Ladysmith",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Cariboo-Prince George",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kamloops-Thompson-Cariboo",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Battlefords-Lloydminster",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Desnethé-Missinippi-Churchill River",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Carlton Trail-Eagle Creek",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Moose Jaw-Lake Centre-Lanigan",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Prince Albert",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Regina-Lewvan",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": "Regina"
+        },
+        {
+          "FEDENAME_": "Regina-Qu'Appelle",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Regina-Wascana",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": "Regina"
+        },
+        {
+          "FEDENAME_": "Saskatoon-Grasswood",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": "Saskatoon"
+        },
+        {
+          "FEDENAME_": "Saskatoon-University",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": "Saskatoon"
+        },
+        {
+          "FEDENAME_": "Saskatoon West",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": "Saskatoon"
+        },
+        {
+          "FEDENAME_": "Yorkton-Melville",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Winnipeg South",
+          "PROVNAME_": "Manitoba",
+          "REGION": "Winnipeg"
+        },
+        {
+          "FEDENAME_": "Saint Boniface-Saint Vital",
+          "PROVNAME_": "Manitoba",
+          "REGION": "Winnipeg"
+        },
+        {
+          "FEDENAME_": "Elmwood-Transcona",
+          "PROVNAME_": "Manitoba",
+          "REGION": "Winnipeg"
+        },
+        {
+          "FEDENAME_": "Churchill-Keewatinook Aski",
+          "PROVNAME_": "Manitoba",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kildonan-St. Paul",
+          "PROVNAME_": "Manitoba",
+          "REGION": "Winnipeg"
+        },
+        {
+          "FEDENAME_": "Selkirk-Interlake-Eastman",
+          "PROVNAME_": "Manitoba",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Winnipeg South Centre",
+          "PROVNAME_": "Manitoba",
+          "REGION": "Winnipeg"
+        },
+        {
+          "FEDENAME_": "Dauphin-Swan River-Neepawa",
+          "PROVNAME_": "Manitoba",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Charleswood-St. James-Assiniboia-Headingley",
+          "PROVNAME_": "Manitoba",
+          "REGION": "Winnipeg"
+        },
+        {
+          "FEDENAME_": "Winnipeg North",
+          "PROVNAME_": "Manitoba",
+          "REGION": "Winnipeg"
+        },
+        {
+          "FEDENAME_": "Winnipeg Centre",
+          "PROVNAME_": "Manitoba",
+          "REGION": "Winnipeg"
+        },
+        {
+          "FEDENAME_": "Eglinton-Lawrence",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Ajax",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mississauga East-Cooksville",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Renfrew-Nipissing-Pembroke",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Cambridge",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Scarborough Southwest",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Milton",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Haliburton-Kawartha Lakes-Brock",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Vaughan-Woodbridge",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Etobicoke-Lakeshore",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Ottawa Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": "Ottawa"
+        },
+        {
+          "FEDENAME_": "Markham-Thornhill",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Scarborough Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Markham-Unionville",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Scarborough-Guildwood",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Markham-Stouffville",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Nipissing-Timiskaming",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Nickel Belt",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Parkdale-High Park",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Niagara Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Barrie-Springwater-Oro-Medonte",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Oxford",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Dufferin-Caledon",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "London West",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Humber River-Black Creek",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Simcoe North",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Scarborough North",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Durham",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Sault Ste. Marie",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Nepean",
+          "PROVNAME_": "Ontario",
+          "REGION": "Ottawa"
+        },
+        {
+          "FEDENAME_": "Niagara Falls",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Wellington-Halton Hills",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "York South-Weston",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Flamborough-Glanbrook",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Don Valley East",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Orléans",
+          "PROVNAME_": "Ontario",
+          "REGION": "Ottawa"
+        },
+        {
+          "FEDENAME_": "Don Valley North",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Davenport",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Burlington",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Waterloo",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Essex",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Ottawa West-Nepean",
+          "PROVNAME_": "Ontario",
+          "REGION": "Ottawa"
+        },
+        {
+          "FEDENAME_": "Brampton South",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Parry Sound-Muskoka",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Bruce-Grey-Owen Sound",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "York Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Brampton West",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Barrie-Innisfil",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "University-Rosedale",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Aurora-Oak Ridges-Richmond Hill",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Elgin-Middlesex-London",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Glengarry-Prescott-Russell",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Stormont-Dundas-South Glengarry",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kanata-Carleton",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "London North Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Algoma-Manitoulin-Kapuskasing",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Brantford-Brant",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Newmarket-Aurora",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Willowdale",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Hamilton West-Ancaster-Dundas",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Chatham-Kent-Leamington",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Etobicoke North",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Lanark-Frontenac-Kingston",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Niagara West",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Brampton North",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mississauga-Lakeshore",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Simcoe-Grey",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Sudbury",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Oshawa",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kingston and the Islands",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Scarborough-Rouge Park",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Brampton Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Ottawa South",
+          "PROVNAME_": "Ontario",
+          "REGION": "Ottawa"
+        },
+        {
+          "FEDENAME_": "Ottawa-Vanier",
+          "PROVNAME_": "Ontario",
+          "REGION": "Ottawa"
+        },
+        {
+          "FEDENAME_": "London-Fanshawe",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Bay of Quinte",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Oakville",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kitchener Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "King-Vaughan",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Brampton East",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Scarborough-Agincourt",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Peterborough-Kawartha",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Thunder Bay-Superior North",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Toronto-Danforth",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "York-Simcoe",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Don Valley West",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Hastings-Lennox and Addington",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Toronto Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Richmond Hill",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mississauga Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Beaches-East York",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Pickering-Uxbridge",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mississauga-Malton",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Haldimand-Norfolk",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Guelph",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Carleton",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Sarnia-Lambton",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mississauga-Erin Mills",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Lambton-Kent-Middlesex",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Perth-Wellington",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Windsor West",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Etobicoke Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Windsor-Tecumseh",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kitchener South-Hespeler",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mississauga-Streetsville",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Spadina-Fort York",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Whitby",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Huron-Bruce",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Northumberland-Peterborough South",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Hamilton East-Stoney Creek",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kitchener-Conestoga",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "St. Catharines",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Thornhill",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Toronto-St. Paul's",
+          "PROVNAME_": "Ontario",
+          "REGION": "GTA"
+        },
+        {
+          "FEDENAME_": "Hamilton Mountain",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Hamilton Centre",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Oakville North-Burlington",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Timmins-James Bay",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Charlesbourg-Haute-Saint-Charles",
+          "PROVNAME_": "Québec",
+          "REGION": "Québec City"
+        },
+        {
+          "FEDENAME_": "Bourassa",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Sherbrooke",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Lac-Saint-Louis",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Louis-Hébert",
+          "PROVNAME_": "Québec",
+          "REGION": "Québec City"
+        },
+        {
+          "FEDENAME_": "Papineau",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Rivière-des-Mille-Îles",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Drummond",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Portneuf-Jacques-Cartier",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Laurentides-Labelle",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Ahuntsic-Cartierville",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Saint-Hyacinthe-Bagot",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Ville-Marie-Le Sud-Ouest-Île-des-Soeurs",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Richmond-Arthabaska",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Louis-Saint-Laurent",
+          "PROVNAME_": "Québec",
+          "REGION": "Québec City"
+        },
+        {
+          "FEDENAME_": "Gatineau",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Repentigny",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Abitibi-Témiscamingue",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Bécancour-Nicolet-Saurel",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Saint-Léonard-Saint-Michel",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Pierre-Boucher-Les Patriotes-Verchères",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Dorval-Lachine-LaSalle",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Pontiac",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Argenteuil-La Petite-Nation",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Saint-Laurent",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "La Pointe-de-l'Île",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Manicouagan",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Longueuil-Charles-LeMoyne",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Saint-Maurice-Champlain",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Montcalm",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Shefford",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Longueuil-Saint-Hubert",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Pierrefonds-Dollard",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Lac-Saint-Jean",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Gaspésie-Les Îles-de-la-Madeleine",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Outremont",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Hull-Aylmer",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Saint-Jean",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Notre-Dame-de-Grâce-Westmount",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Montarville",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Laval-Les Îles",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Laurier-Sainte-Marie",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Thérèse-De Blainville",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Rosemont-La Petite-Patrie",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Terrebonne",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Marc-Aurèle-Fortin",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Joliette",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Rivière-du-Nord",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mirabel",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mount Royal",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Beloeil-Chambly",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Jonquière",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Abitibi-Baie-James-Nunavik-Eeyou",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Montmagny-L'Islet-Kamouraska-Rivière-du-Loup",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Hochelaga",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Brossard-Saint-Lambert",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Berthier-Maskinongé",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Beauport-Côte-de-Beaupré-Île d’Orléans-Charlevoix",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "La Prairie",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "LaSalle-Émard-Verdun",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Avignon-La Mitis-Matane-Matapédia",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Lévis-Lotbinière",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Chicoutimi-Le Fjord",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Québec",
+          "PROVNAME_": "Québec",
+          "REGION": "Québec City"
+        },
+        {
+          "FEDENAME_": "Vaudreuil-Soulanges",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Alfred-Pellan",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Vimy",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Trois-Rivières",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Beauport-Limoilou",
+          "PROVNAME_": "Québec",
+          "REGION": "Québec City"
+        },
+        {
+          "FEDENAME_": "Brome-Missisquoi",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Honoré-Mercier",
+          "PROVNAME_": "Québec",
+          "REGION": "Montreal"
+        },
+        {
+          "FEDENAME_": "Northwest Territories",
+          "PROVNAME_": "Territories",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Long Range Mountains",
+          "PROVNAME_": "Newfoundland and Labrador",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Labrador",
+          "PROVNAME_": "Newfoundland and Labrador",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Bonavista-Burin-Trinity",
+          "PROVNAME_": "Newfoundland and Labrador",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "St. John's East",
+          "PROVNAME_": "Newfoundland and Labrador",
+          "REGION": "St. John's"
+        },
+        {
+          "FEDENAME_": "Coast of Bays-Central-Notre Dame",
+          "PROVNAME_": "Newfoundland and Labrador",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Avalon",
+          "PROVNAME_": "Newfoundland and Labrador",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "St. John's South-Mount Pearl",
+          "PROVNAME_": "Newfoundland and Labrador",
+          "REGION": "St. John's"
+        },
+        {
+          "FEDENAME_": "Fredericton",
+          "PROVNAME_": "New Brunswick",
+          "REGION": "Fredericton"
+        },
+        {
+          "FEDENAME_": "Acadie-Bathurst",
+          "PROVNAME_": "New Brunswick",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Fundy Royal",
+          "PROVNAME_": "New Brunswick",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Miramichi-Grand Lake",
+          "PROVNAME_": "New Brunswick",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Saint John-Rothesay",
+          "PROVNAME_": "New Brunswick",
+          "REGION": "Saint John"
+        },
+        {
+          "FEDENAME_": "Moncton-Riverview-Dieppe",
+          "PROVNAME_": "New Brunswick",
+          "REGION": "Moncton"
+        },
+        {
+          "FEDENAME_": "Beauséjour",
+          "PROVNAME_": "New Brunswick",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Central Nova",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Cape Breton-Canso",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Dartmouth-Cole Harbour",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": "Halifax"
+        },
+        {
+          "FEDENAME_": "Halifax",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": "Halifax"
+        },
+        {
+          "FEDENAME_": "South Shore-St. Margarets",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kings-Hants",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Cumberland-Colchester",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Halifax West",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": "Halifax"
+        },
+        {
+          "FEDENAME_": "Sydney-Victoria",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "West Nova",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Sackville-Preston-Chezzetcook",
+          "PROVNAME_": "Nova Scotia",
+          "REGION": "Halifax"
+        },
+        {
+          "FEDENAME_": "Cardigan",
+          "PROVNAME_": "Prince Edward Island",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Egmont",
+          "PROVNAME_": "Prince Edward Island",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Malpeque",
+          "PROVNAME_": "Prince Edward Island",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Charlottetown",
+          "PROVNAME_": "Prince Edward Island",
+          "REGION": "Charlottetown"
+        },
+        {
+          "FEDENAME_": "Nunavut",
+          "PROVNAME_": "Territories",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "New Brunswick Southwest",
+          "PROVNAME_": "New Brunswick",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Cypress Hills-Grasslands",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Souris-Moose Mountain",
+          "PROVNAME_": "Saskatchewan",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Portage-Lisgar",
+          "PROVNAME_": "Manitoba",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Provencher",
+          "PROVNAME_": "Manitoba",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Brandon-Souris",
+          "PROVNAME_": "Manitoba",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Beauce",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Mégantic-L'Érable",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Yukon",
+          "PROVNAME_": "Territories",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Salaberry-Suroît",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Madawaska-Restigouche",
+          "PROVNAME_": "New Brunswick",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Tobique-Mactaquac",
+          "PROVNAME_": "New Brunswick",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Thunder Bay-Rainy River",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Bellechasse-Les Etchemins-Lévis",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Châteauguay-Lacolle",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Compton-Stanstead",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Rimouski-Neigette-Témiscouata-Les Basques",
+          "PROVNAME_": "Québec",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "USA",
+          "PROVNAME_": "",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Abbotsford",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Central Okanagan-Similkameen-Nicola",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Foothills",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kootenay-Columbia",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Langley-Aldergrove",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Medicine Hat-Cardston-Warner",
+          "PROVNAME_": "Alberta",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Skeena-Bulkley Valley",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "South Okanagan-West Kootenay",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "South Surrey-White Rock",
+          "PROVNAME_": "British Columbia",
+          "REGION": "Vancouver"
+        },
+        {
+          "FEDENAME_": "Chilliwack-Hope",
+          "PROVNAME_": "British Columbia",
+          "REGION": ""
+        },
+        {
+          "FEDENAME_": "Kenora",
+          "PROVNAME_": "Ontario",
+          "REGION": ""
+        }
+      ]
+}
